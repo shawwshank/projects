@@ -1,0 +1,4 @@
+** For number 6, I implemented a way for users to poke other people. I simply ask them who they want to poke
+after printing out all the users and then they send a poke to the requested user. once that user logs in, they 
+can go to pokes again and send a poke back to the same user, or any other user, for that matter.
+once they do that, it will display the number of pokes they have, and who poked them.  **
