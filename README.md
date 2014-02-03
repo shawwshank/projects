@@ -27,5 +27,3 @@ Reads names from input file and counts occurence of each name and sorts in O(nlo
 The first line contains n and t, and the next n lines contain the n numbers x1, x2, ..... xn, in no particular order. 
 The goal is to find out whether there are two numbers xi,xj among the n numbers such that xi + xj = t.
 
-Java HW1:
-Basic Java program. Hot or Cold game, have to guess randomly selected point within a grid. 
